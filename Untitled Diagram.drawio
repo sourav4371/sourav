@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T05:51:12.512Z" agent="5.0 (Windows)" etag="kfKaiheElg1AgAaXUUoA" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T05:53:59.737Z" agent="5.0 (Windows)" etag="e_NQYghdN0Nqx9x6xaCQ" version="13.6.2" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1342" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="63" value="1" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
           <mxGeometry x="177.5" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="64" value="Complete project execution" style="align=left;strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
+        <mxCell id="64" value="System Study &amp; Analysis" style="align=left;strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
           <mxGeometry x="220" y="380" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="65" value="35 days" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="69" value="2" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="177.50000000000026" y="399.9999999999999" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="70" value="Engineering" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+        <mxCell id="70" value="Requirement Finalization" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="220" y="400" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="71" value="35 days" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="74" value="3" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="177.50000000000028" y="419.9999999999998" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="75" value="Project examination" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="75" value="Design &amp; Architecting" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="220" y="420" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="79" value="4" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="177.5" y="440.00000000000017" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="80" value="Material specification" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="80" value="Application Building" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="81" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="84" value="5" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="177.49999999999991" y="460.00000000000017" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="85" value="Material ordering" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="85" value="Quality Assurance Testing " style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="220" y="460" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="86" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="89" value="6" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="177.4999999999999" y="480.00000000000045" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="90" value="Equipment layouting" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="90" value="User Acceptance Testing" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="220" y="480" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="91" value="3 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="94" value="7" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="177.50000000000063" y="500.0000000000007" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="95" value="Supervision and meetings" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="95" value="Production Implementation &amp; Go Live" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="220" y="500" width="279.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="96" value="27 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
