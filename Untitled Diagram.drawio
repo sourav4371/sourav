@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T06:31:09.772Z" agent="5.0 (Windows)" etag="xKPb6Krvz7dag9joiiZE" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T06:53:26.171Z" agent="5.0 (Windows)" etag="YDpHYQuaN7iO4MteSTt5" version="13.6.2" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1342" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -12,6 +12,12 @@
         </mxCell>
         <mxCell id="69" value="2" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="310" y="412" width="47.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#CC0066;fillColor=#FFF4C3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573" y="425" as="sourcePoint" />
+            <mxPoint x="711" y="425" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="70" value="Requirement Finalization" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="360" y="412" width="210" height="28" as="geometry" />
@@ -138,12 +144,18 @@
         </mxCell>
         <mxCell id="iz-O9aYa_GpuZ4qTTY7D-303" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=0;endSize=8.33;width=8;strokeColor=#FFF4C3;fillColor=#FFF4C3;shadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="778.75" y="456" as="sourcePoint" />
-            <mxPoint x="920" y="457" as="targetPoint" />
+            <mxPoint x="780.75" y="456" as="sourcePoint" />
+            <mxPoint x="922" y="457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iz-O9aYa_GpuZ4qTTY7D-304" value="&lt;font style=&quot;font-size: 8px&quot;&gt;7th- 10th week&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;opacity=50;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="926" y="435" width="54" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#CC0066;fillColor=#FFF4C3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573" y="457" as="sourcePoint" />
+            <mxPoint x="780" y="457" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
