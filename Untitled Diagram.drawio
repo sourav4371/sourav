@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T07:00:06.373Z" agent="5.0 (Windows)" etag="p-hOCwoRwNwnu7vjEw0f" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T07:08:20.013Z" agent="5.0 (Windows)" etag="Pbd8yaTDRlgXqLuYAgYL" version="13.6.2" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1342" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -170,6 +170,54 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="572" y="486" as="sourcePoint" />
             <mxPoint x="919" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-313" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=0;endSize=8.33;width=8;strokeColor=#FFF4C3;fillColor=#FFF4C3;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200.75" y="514" as="sourcePoint" />
+            <mxPoint x="1412" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-314" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#CC0066;fillColor=#FFF4C3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="515" as="sourcePoint" />
+            <mxPoint x="1200" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-315" value="&lt;font style=&quot;font-size: 8px&quot;&gt;19th- 24th week&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;opacity=50;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="488" width="54" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#CC0066;fillColor=#FFF4C3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="546" as="sourcePoint" />
+            <mxPoint x="1410" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-317" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=0;endSize=8.33;width=8;strokeColor=#FFF4C3;fillColor=#FFF4C3;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1412" y="546" as="sourcePoint" />
+            <mxPoint x="1620" y="547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-318" value="&lt;font style=&quot;font-size: 8px&quot;&gt;25th- 30th week&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;opacity=50;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="519" width="54" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#CC0066;fillColor=#FFF4C3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="576" as="sourcePoint" />
+            <mxPoint x="1630" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-320" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=0;endSize=8.33;width=8;strokeColor=#FFF4C3;fillColor=#FFF4C3;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="575" as="sourcePoint" />
+            <mxPoint x="1690" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz-O9aYa_GpuZ4qTTY7D-321" value="" style="endArrow=none;dashed=1;html=1;shadow=1;strokeColor=#FFF4C3;fillColor=#FFF4C3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1692" y="590" as="sourcePoint" />
+            <mxPoint x="1691.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
