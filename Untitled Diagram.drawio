@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T07:50:38.312Z" agent="5.0 (Windows)" etag="djh1MdmJn1ivoZdeeIFe" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T07:55:22.592Z" agent="5.0 (Windows)" etag="5hvkd6OvPeWcPeNbZ7_S" version="13.7.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1342" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="115" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7" value="Login" style="" parent="2" vertex="1">
+        <mxCell id="7" value="Admin Login" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Master Department &#xa;Entry Module" style="" parent="2" vertex="1">
@@ -43,29 +43,11 @@
             <mxPoint x="116.5" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM3oIRl2WKjBreu4P8RQ-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2" source="jM3oIRl2WKjBreu4P8RQ-53">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="185.5" y="390" as="sourcePoint" />
-            <mxPoint x="331.5" y="132" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="205.5" y="115" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3" value="User" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Thread 3" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="33" value="process&#xa;command" style="" parent="4" vertex="1">
-          <mxGeometry x="90" y="405" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="4" vertex="1">
-          <mxGeometry x="130" y="500" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="39" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="4" source="33" target="38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jM3oIRl2WKjBreu4P8RQ-55" value="User Login" style="" vertex="1" parent="3">
+          <mxGeometry x="68.5" y="109" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jM3oIRl2WKjBreu4P8RQ-53" value="Database table&#xa; mapping Module" style="" vertex="1" parent="1">
           <mxGeometry x="226.5" y="563" width="110" height="50" as="geometry" />
@@ -74,6 +56,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="281" y="534" as="sourcePoint" />
             <mxPoint x="281" y="561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jM3oIRl2WKjBreu4P8RQ-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jM3oIRl2WKjBreu4P8RQ-53" target="jM3oIRl2WKjBreu4P8RQ-55">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="518" as="sourcePoint" />
+            <mxPoint x="496" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="243" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
