@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T10:31:44.574Z" agent="5.0 (Windows)" etag="GGrMJNoO7MFQHbYC6TQE" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T10:39:50.933Z" agent="5.0 (Windows)" etag="LqWeIIytZNRQ8ENm408g" version="13.7.5" type="github">
   <diagram id="uUWhvBt9SjjKLmyAbZoW" name="Page-1">
     <mxGraphModel dx="1342" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,19 +72,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-27" target="LnT8cTqgNfaUhyzzywaj-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="100" />
-              <mxPoint x="402" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-27" value="Requisition Submited" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-27" value="Requisition Finalize?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="510" y="110.5" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-38" target="LnT8cTqgNfaUhyzzywaj-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LnT8cTqgNfaUhyzzywaj-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-38" target="LnT8cTqgNfaUhyzzywaj-73">
           <mxGeometry relative="1" as="geometry">
@@ -95,19 +84,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LnT8cTqgNfaUhyzzywaj-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="560" y="230" />
+              <mxPoint x="710" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LnT8cTqgNfaUhyzzywaj-38" value="Requisition Correct?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="510" y="262" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-43" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="100" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-44" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="180" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-45" target="LnT8cTqgNfaUhyzzywaj-38">
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-45" target="LnT8cTqgNfaUhyzzywaj-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="421" />
+              <mxPoint x="560" y="380" />
+              <mxPoint x="650" y="380" />
               <mxPoint x="650" y="302" />
             </Array>
           </mxGeometry>
@@ -125,17 +118,17 @@
         <mxCell id="LnT8cTqgNfaUhyzzywaj-49" value="Temporary Block/Unblock" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="114" y="401" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-51" value="If Individual Employes/Vtc&#39;s Requisition&amp;nbsp; Not ok" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="377" width="270" height="20" as="geometry" />
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-51" value="&amp;nbsp;Individual Employes/Vtc&#39;s Requisition&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="377" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LnT8cTqgNfaUhyzzywaj-52" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="381" width="30" height="20" as="geometry" />
+          <mxGeometry x="650" y="313" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LnT8cTqgNfaUhyzzywaj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-55" target="LnT8cTqgNfaUhyzzywaj-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="530" />
-              <mxPoint x="620" y="421" />
+              <mxPoint x="650" y="530" />
+              <mxPoint x="650" y="421" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -184,8 +177,8 @@
         <mxCell id="LnT8cTqgNfaUhyzzywaj-79" value="Temporary Block/Unblock" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="141.5" y="505" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LnT8cTqgNfaUhyzzywaj-81" value="If Individual Employes/Vtc&#39;s Requisition&amp;nbsp; Not ok" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="270" height="20" as="geometry" />
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-81" value="Individual Employes/Vtc&#39;s Requisition&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="485" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LnT8cTqgNfaUhyzzywaj-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-84" target="LnT8cTqgNfaUhyzzywaj-88">
           <mxGeometry relative="1" as="geometry" />
@@ -245,6 +238,18 @@
         </mxCell>
         <mxCell id="LnT8cTqgNfaUhyzzywaj-113" value="VTC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="4" y="127" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LnT8cTqgNfaUhyzzywaj-115" target="LnT8cTqgNfaUhyzzywaj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-115" value="Requisition Edit" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="650" y="125.5" width="120" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-119" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="210" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LnT8cTqgNfaUhyzzywaj-120" value="Requisition Locked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="580" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
