@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T09:54:12.134Z" agent="5.0 (Windows)" etag="LmJ2fkeBHA801R2AORJm" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T09:54:46.110Z" agent="5.0 (Windows)" etag="FKLROSyir4sDgZGMw-gG" version="13.7.3" type="github" pages="2">
   <diagram id="js6bx69Id_uk5VicvaPF" name="Requisition">
     <mxGraphModel dx="1342" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -248,14 +248,13 @@
         <mxCell id="JTw9-ym2CYQG4N4RZ4vl-32" value="Unlock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="JTw9-ym2CYQG4N4RZ4vl-31">
           <mxGeometry y="200" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JTw9-ym2CYQG4N4RZ4vl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTw9-ym2CYQG4N4RZ4vl-31" source="JTw9-ym2CYQG4N4RZ4vl-35" target="JTw9-ym2CYQG4N4RZ4vl-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JTw9-ym2CYQG4N4RZ4vl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTw9-ym2CYQG4N4RZ4vl-31" source="JTw9-ym2CYQG4N4RZ4vl-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JTw9-ym2CYQG4N4RZ4vl-35" value="Block/ Unblock" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JTw9-ym2CYQG4N4RZ4vl-31">
           <mxGeometry x="10" y="348" width="79" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JTw9-ym2CYQG4N4RZ4vl-36" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="JTw9-ym2CYQG4N4RZ4vl-31">
-          <mxGeometry x="30" y="440" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JTw9-ym2CYQG4N4RZ4vl-37" value="Block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="JTw9-ym2CYQG4N4RZ4vl-31">
           <mxGeometry x="50" y="408" width="50" height="20" as="geometry" />
